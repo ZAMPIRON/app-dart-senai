@@ -1,6 +1,6 @@
 # 📱 SENAI Mobile - APP em DART
 
-https://github.com/user-attachments/assets/548f2130-a367-4d9d-93c0-542198dec1a3
+https://github.com/user-attachments/assets/41d4cd8b-a581-4e8c-806f-e3fd5fa317cf
 
 Este repositório contém o código-fonte de um sistema de autenticação mobile desenvolvido para o ecossistema **SENAI**. O projeto foca em uma interface intuitiva, transições suaves e uma arquitetura limpa utilizando a linguagem **Dart**.
 
